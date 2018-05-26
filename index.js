@@ -1,3 +1,4 @@
+// abrir puerto serial
 var SerialPort = require('serialport');
 var port = new SerialPort('COM3', {
   baudRate: 9600
@@ -9,6 +10,7 @@ var Estado = 0;
 var Sensor2 = 0;
 var Sensor2Tmp = 0;
 
+// medicion de datos
 port.on('data', function(data) {
   console.log("Valor 1 " + Sensor1 );
   for (var i = 0; i < data.length; i++) {
