@@ -9,5 +9,5 @@ INTEGRANTES:
 
 # Requerimientos
 
-- mArduino Core para ESP32: https://github.com/espressif/arduino-esp32
+- Arduino Core para ESP32: https://github.com/espressif/arduino-esp32
 - IoT Framework: https://github.com/espressif/esp-idf#setting-up-esp-idf
