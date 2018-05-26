@@ -3,6 +3,6 @@ Proyecto de Arquitectura de Computadoras
 
 INTEGRANTES:
 - Juan Alexander Ruiz Rivas
-- Dennis Vladimir Cañas
+- Dennis Vladimir Cañas Barrientos
 - Emilio Enrique Villatoro Torres
-- Juan Antonio Mejia 
+- Juan Antonio Mejia Granados
